@@ -1,7 +1,7 @@
 # Heart_Attack_Survival_Predictions-
 ALL python jupyter notebook
 
-<img src="">
+<img src="https://github.com/rpjinu/Heart_Attack_Survival_Predictions-/blob/main/project_img.png">
 
 # 🏥 Heart Attack Survival Prediction
 
