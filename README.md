@@ -11,6 +11,8 @@ This project aims to predict heart attack survival outcomes using machine learni
 ## 📂 Dataset Description
 The dataset consists of **50,000 records** with the following features:
 
+dataset link:-https://www.kaggle.com/datasets/rpjinu/heart-attack-survival-dataset/data
+
 - **Demographics**: 🌎 Country, 🧑 Age, 👨‍⚕️ Gender
 - **Medical Conditions**: 🫀 Cholesterol Level, 🔴 Blood Pressure, 💊 Diabetes, 🏋️ Obesity
 - **Lifestyle Factors**: 🚬 Smoking History, 🍷 Alcohol Consumption, 🏃 Physical Activity
